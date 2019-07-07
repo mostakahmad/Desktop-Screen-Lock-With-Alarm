@@ -1,0 +1,43 @@
+C:\Users\Mostak\Desktop\Dot Net\2. Emo's Document\ScreenLock\ScreenLock\bin\Debug\ScreenLock.exe.config
+C:\Users\Mostak\Desktop\Dot Net\2. Emo's Document\ScreenLock\ScreenLock\bin\Debug\ScreenLock.exe
+C:\Users\Mostak\Desktop\Dot Net\2. Emo's Document\ScreenLock\ScreenLock\bin\Debug\ScreenLock.pdb
+C:\Users\Mostak\Desktop\Dot Net\2. Emo's Document\ScreenLock\ScreenLock\obj\Debug\ScreenLock.Form1.resources
+C:\Users\Mostak\Desktop\Dot Net\2. Emo's Document\ScreenLock\ScreenLock\obj\Debug\ScreenLock.Properties.Resources.resources
+C:\Users\Mostak\Desktop\Dot Net\2. Emo's Document\ScreenLock\ScreenLock\obj\Debug\ScreenLock.csproj.GenerateResource.Cache
+C:\Users\Mostak\Desktop\Dot Net\2. Emo's Document\ScreenLock\ScreenLock\obj\Debug\ScreenLock.exe
+C:\Users\Mostak\Desktop\Dot Net\2. Emo's Document\ScreenLock\ScreenLock\obj\Debug\ScreenLock.pdb
+C:\Users\Mostak\Desktop\Dot Net\2. Emo's Document\ScreenLock\ScreenLock\obj\Debug\ScreenLock.Form2.resources
+C:\Users\Mostak\Desktop\Dot Net\2. Emo's Document\ScreenLock\ScreenLock\obj\Debug\ScreenLock.csprojResolveAssemblyReference.cache
+C:\Users\Mostak\Desktop\ScreenLock\ScreenLock\bin\Debug\ScreenLock.exe.config
+C:\Users\Mostak\Desktop\ScreenLock\ScreenLock\obj\Debug\ScreenLock.exe
+C:\Users\Mostak\Desktop\ScreenLock\ScreenLock\obj\Debug\ScreenLock.pdb
+C:\Users\Mostak\Desktop\ScreenLock\ScreenLock\bin\Debug\ScreenLock.exe
+C:\Users\Mostak\Desktop\ScreenLock\ScreenLock\bin\Debug\ScreenLock.pdb
+C:\Users\Mostak\Desktop\ScreenLock\ScreenLock\obj\Debug\ScreenLock.csprojResolveAssemblyReference.cache
+C:\Users\Mostak\Desktop\ScreenLock\ScreenLock\obj\Debug\ScreenLock.Form1.resources
+C:\Users\Mostak\Desktop\ScreenLock\ScreenLock\obj\Debug\ScreenLock.Form2.resources
+C:\Users\Mostak\Desktop\ScreenLock\ScreenLock\obj\Debug\ScreenLock.Form3.resources
+C:\Users\Mostak\Desktop\ScreenLock\ScreenLock\obj\Debug\ScreenLock.Properties.Resources.resources
+C:\Users\Mostak\Desktop\ScreenLock\ScreenLock\obj\Debug\ScreenLock.csproj.GenerateResource.Cache
+C:\Users\Mostak\Desktop\ScreenLock\ScreenLock\obj\Debug\ScreenLock.Form4.resources
+C:\Users\Mostak\Desktop\ScreenLock\ScreenLock\obj\Debug\ScreenLock.Form5.resources
+C:\Users\Mostak\Desktop\ScreenLock\ScreenLock\obj\Debug\ScreenLock.Form6.resources
+C:\Users\Mostak\Desktop\ScreenLock\ScreenLock\obj\Debug\ScreenLock.Form7.resources
+C:\Users\Mostak\Desktop\ScreenLock With Alarm\ScreenLock\bin\Debug\ScreenLock.exe.config
+C:\Users\Mostak\Desktop\ScreenLock With Alarm\ScreenLock\obj\Debug\ScreenLock.exe
+C:\Users\Mostak\Desktop\ScreenLock With Alarm\ScreenLock\obj\Debug\ScreenLock.pdb
+C:\Users\Mostak\Desktop\ScreenLock With Alarm\ScreenLock\bin\Debug\ScreenLock.exe
+C:\Users\Mostak\Desktop\ScreenLock With Alarm\ScreenLock\bin\Debug\ScreenLock.pdb
+C:\Users\Mostak\Desktop\ScreenLock With Alarm\ScreenLock\obj\Debug\ScreenLock.csprojResolveAssemblyReference.cache
+C:\Users\Mostak\Desktop\ScreenLock With Alarm\ScreenLock\obj\Debug\ScreenLock.Form1.resources
+C:\Users\Mostak\Desktop\ScreenLock With Alarm\ScreenLock\obj\Debug\ScreenLock.Form2.resources
+C:\Users\Mostak\Desktop\ScreenLock With Alarm\ScreenLock\obj\Debug\ScreenLock.Form3.resources
+C:\Users\Mostak\Desktop\ScreenLock With Alarm\ScreenLock\obj\Debug\ScreenLock.Form4.resources
+C:\Users\Mostak\Desktop\ScreenLock With Alarm\ScreenLock\obj\Debug\ScreenLock.Form5.resources
+C:\Users\Mostak\Desktop\ScreenLock With Alarm\ScreenLock\obj\Debug\ScreenLock.Form6.resources
+C:\Users\Mostak\Desktop\ScreenLock With Alarm\ScreenLock\obj\Debug\ScreenLock.Form7.resources
+C:\Users\Mostak\Desktop\ScreenLock With Alarm\ScreenLock\obj\Debug\ScreenLock.Properties.Resources.resources
+C:\Users\Mostak\Desktop\ScreenLock With Alarm\ScreenLock\obj\Debug\ScreenLock.csproj.GenerateResource.Cache
+E:\Dot Net\2. Emo's Document\MVC New Projects\ScreenLock With Alarm\ScreenLock\bin\Debug\ScreenLock.exe.config
+E:\Dot Net\2. Emo's Document\MVC New Projects\ScreenLock With Alarm\ScreenLock\obj\Debug\ScreenLock.exe
+E:\Dot Net\2. Emo's Document\MVC New Projects\ScreenLock With Alarm\ScreenLock\obj\Debug\ScreenLock.pdb
